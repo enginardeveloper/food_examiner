@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145286078400",
+    "project_id": "food-examiner",
+    "storage_bucket": "food-examiner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145286078400:android:fd7f5a2787558c86ed7225",
+        "android_client_info": {
+          "package_name": "com.uni.foodexaminer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145286078400-i1bbhfikg670r1vjvoiu8qfnf7gmpkcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY8DvWb2vYJk0Ir_U064DjdPXSJg2ulPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145286078400-i1bbhfikg670r1vjvoiu8qfnf7gmpkcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

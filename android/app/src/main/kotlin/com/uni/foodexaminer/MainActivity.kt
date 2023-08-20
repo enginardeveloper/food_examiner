@@ -1,4 +1,4 @@
-package com.example.food_examiner
+package com.uni.foodexaminer
 
 import io.flutter.embedding.android.FlutterActivity
 
